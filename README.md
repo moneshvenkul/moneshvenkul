@@ -27,9 +27,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
+[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
 [![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/moneshvenkul)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
 
 
 **Languages and Tools:**  
