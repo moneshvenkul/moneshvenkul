@@ -19,7 +19,7 @@
 
 
 - 🔭 I’m currently working in [HCL](https://www.hcltech.com/).
-- 🌱 I’m currently learning more about Full Stack Development.
+- 🌱 I’m currently learning more about Full Stack Development using Spring Framework.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA).
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
