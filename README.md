@@ -1,7 +1,6 @@
-## Hola, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 👋
+## Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
-
 
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,30 +8,47 @@
 <a href="https://github.com/moneshvenkul">
   <img align="left" alt="Monesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA">
-  <img align="left" alt="Monesh's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
 
-- 🔭 I’m currently seeking new opportunities in Full Stack Development.
-- 🌱 I’m actively enhancing my skills in Full Stack Development using the Spring Framework.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
-- 🤔 I’m open to providing career guidance and sharing my experiences in tech.
-- 💬 Happy to chat about Full Stack Development, tech trends, and collaborative projects.
-- 📫 Reach me at: [LinkedIn - @MoneshVenkul](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/), [YouTube - @MoneshVenkul](https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I thrive in teams with like-minded, passionate individuals.
+### About Me
 
-[![Linkedin: MoneshVenkul](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
-[![GitHub MoneshVenkul](https://img.shields.io/github/followers/moneshvenkul?label=follow&style=social)](https://github.com/moneshvenkul)
-[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://moneshvenkul.github.io/)
+- 🔭 Experienced Full-Stack Developer with 6 years in IT, proficient in Python, Java, JavaScript, React, Node.js, Angular, SQL, NoSQL, Docker, Azure, and AWS.
+- 🌱 I’m passionate about developing client and server software and have a proven track record in diverse web projects.
+- 👯 Currently open to exciting Full-Stack Development opportunities, eager to bring strong problem-solving skills and a commitment to high-quality results.
+- 💬 With experience at Stem Sims, HCL Technologies, and AlmaBetter, I have a deep understanding of software development and project management.
+- 📫 Reach me at: [LinkedIn - @MoneshVenkul](https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy mentoring and have guided over 300 students to successful careers in tech.
 
-**Languages and Tools:**  
+### Professional Experience
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- **Stem Sims | Full Stack Engineer Intern**
+  - Contributed to over 15 feature enhancements using Python and React.js.
+- **HCL Technologies | Software Engineer**
+  - Developed 10+ applications annually using Spring Boot, Core Java, and microservices.
+- **AlmaBetter | Full Stack Software Dev Instructor**
+  - Mentored 300+ students, achieving an 85% job placement rate.
+
+### Education
+
+- **University of New Haven**
+  - M.S in Business Analytics (Expected Dec 2023)
+- **Sathyabama University**
+  - Bachelor's degree, Computer Science (Completed Aug 2020)
+
+### Skills
+
+- Full-Stack Development, Agile & Project Management, DevOps & Cloud Technologies, Quality Assurance & Testing, Team Collaboration & Leadership.
+
+### Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 
 <div align="center">
 
