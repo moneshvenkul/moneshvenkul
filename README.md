@@ -54,7 +54,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nosql/nosql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 
