@@ -32,7 +32,7 @@
 ### 🎓 Education
 
 - **University of New Haven**
-  - Pursuing M.S in Business Analytics 📊 (Expected Dec 2023)
+  - Pursuing M.S in Business Analytics 📊 (Completed Dec 2023)
 - **Sathyabama University**
   - Bachelor's degree in Computer Science 💻 (Completed Aug 2020)
 
@@ -49,6 +49,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nosql/nosql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+
 
 <div align="center">
 
