@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) - Full-Stack Developer & Tech Educator 🚀👨‍💻
+## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) - Full-Stack Developer, Data Scientist & Tech Educator 🚀👨‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&label=Profile%20Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
 
