@@ -10,6 +10,10 @@
   <img align="left" alt="Monesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174)
+
+
 <br/>
 <br/>
 
