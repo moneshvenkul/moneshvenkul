@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 
 **🚀 Senior Full Stack Developer | Vue.js 🎨 React ⚛️ Angular 🅰️ Node.js 🌐 Python 🐍 Django | Java Spring Boot ☕ TypeScript 📜 SQL & NoSQL 💾 | Microservices**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&label=Profile%20Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
 
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
