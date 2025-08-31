@@ -102,3 +102,42 @@
 ### ⭐ Show some love by starring some of the repositories!
 
 </div>
+
+---
+
+## 📊 GitHub Stats & Streaks
+
+<!-- Classic stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moneshvenkul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moneshvenkul&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- Top languages (note: it's repo-based, not skill %) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneshvenkul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moneshvenkul&theme=onedark&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moneshvenkul&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- Badges row -->
+<p align="center">
+  <a href="https://github.com/moneshvenkul?tab=followers">
+    <img src="https://img.shields.io/github/followers/moneshvenkul?label=Follow&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/moneshvenkul?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=2ea44f" />
+  </a>
+</p>
+
+<!-- Light/Dark toggle tip (optional) -->
+<!-- You can switch theme=tokyonight to theme=default or theme=radical etc. -->
+
