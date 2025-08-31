@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/)  
-**🚀 Senior Full Stack Developer | Vue.js 🎨 React ⚛️ Angular 🅰️ Node.js 🌐 Python 🐍 Django | Java Spring Boot ☕ TypeScript 📜 SQL & NoSQL 💾 | Microservices & Cloud ☁️**
+**🚀 Senior Full Stack Developer | Vue.js 🎨 React ⚛️ Angular 🅰️ Node.js 🌐 Python 🐍 Django | Java Spring Boot ☕ TypeScript 📜 SQL & NoSQL 💾 | Cloud ☁️ & Microservices Architect**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> 
@@ -18,57 +18,61 @@
 
 ### 🌟 About Me
 
-- 🌐 A **Senior Full-Stack Developer** with 7+ years of expertise building **enterprise-grade, scalable applications**.  
-- 🛠️ Blending **front-end innovation** (Vue.js, React, Angular) with **robust back-end** (Node.js, Python, Java Spring Boot).  
-- ☁️ Strong in **AWS & Azure**, **CI/CD**, **Docker & Kubernetes**.  
-- 🎯 Focused on **APIs, microservices, and performance** with measurable impact.  
-- 🤝 Mentor & educator: **hands-on teaching, workshops, project-based learning**.  
+- 💡 **Senior Full-Stack Developer** with 7+ years of experience designing and delivering enterprise-grade, scalable solutions.  
+- 🖥️ Expert in crafting **modern, responsive UIs** (Vue.js, React, Angular) and **high-performance backends** (Node.js, Python, Java Spring Boot).  
+- ☁️ Strong background in **cloud computing & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD pipelines.  
+- 📊 Business analytics mindset, merging **data-driven insights** with **technical execution**.  
+- 🤝 **Mentor & educator**, empowering future developers with real-world projects, structured workshops, and collaborative learning.  
 
 ---
 
 ### 💼 Professional Experience
 
 **🔹 Capital One | Senior Full Stack Developer**  
-- 🚀 Led Vue migration for critical apps → client satisfaction **+30%**  
-- 📦 Reusable **TypeScript components** → duplicate code **−40%**  
-- 🔗 Secure **RESTful API** integrations powering thousands of tx/day  
-- 🛡️ **TDD** champion → prod bugs **−25%**  
-- 🤝 Mentored devs, led code reviews, improved team velocity  
+- 🚀 Migrated enterprise apps to **Vue.js**, driving **+30% client satisfaction**.  
+- 📦 Built reusable **TypeScript components**, cutting duplicate code by **40%**.  
+- 🔗 Engineered secure **RESTful APIs**, supporting thousands of daily transactions.  
+- 🛡️ Advocated **TDD practices**, reducing production bugs by **25%**.  
+- 🤝 Mentored junior engineers, ran code reviews, and improved team delivery speed.  
 
 **🔹 Cognixia | Full Stack Engineer**  
-- ⚡ Reliability for **5,000+ users** via deep bug fixes  
-- 🧩 Modular JS + backend integration, **95% on-time** Agile delivery  
+- ⚡ Optimized performance for **5,000+ daily users**, resolving critical bugs in production.  
+- 🧩 Delivered modular, scalable front- and back-end features in an **Agile environment**.  
+- 🎯 Achieved **95% on-time sprint delivery** by aligning dev efforts with business goals.  
 
-**🔹 University of New Haven | Assistant Provost**  
-- 📈 New programs → **+15% enrollment**  
-- 🏅 Faculty workshops → **95% satisfaction**  
+**🔹 University of New Haven | Assistant Provost (Analytics & Programs)**  
+- 📈 Introduced academic programs that increased **student enrollment by 15%**.  
+- 🏅 Conducted workshops for faculty → **95% satisfaction rating**.  
+- 📊 Used analytics-driven strategies to optimize enrollment & retention initiatives.  
 
 **🔹 AlmaBetter | Instructor – Full Stack Development**  
-- 👨‍🏫 Trained **15+ cohorts** (JS/React/Node/DevOps)  
-- 🎓 **80% placement** at leading tech firms  
+- 👨‍🏫 Trained **15+ cohorts** (JS, React, Node, DevOps).  
+- 🎓 Guided students to achieve an **80% placement rate** at top companies.  
+- 📚 Designed **project-based learning modules**, replicating real-world engineering workflows.  
 
 **🔹 HCL Technologies | Software Engineer**  
-- 💻 Scalable **Spring Boot** apps with cloud integrations → **+20% CSAT**  
-- 🏆 On-time delivery under pressure, zero escalations  
+- 💻 Built scalable **Java Spring Boot** apps with cloud integrations.  
+- 📊 Boosted **client satisfaction by 20%** with timely and efficient delivery.  
+- 🏆 Recognized for **reliability under pressure** with zero escalation history.  
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **University of New Haven** – M.S. Business Analytics (2023)  
-- 🎓 **Zero To Mastery** – Certification in Computer Science (2023)  
-- 🎓 **Sathyabama University** – B.E. Computer Science (2020)  
+- 🎓 **University of New Haven** – M.S. in Business Analytics (2023)  
+- 🎓 **Zero To Mastery Academy** – Certification in Computer Science (2023)  
+- 🎓 **Sathyabama University** – B.E. in Computer Science (2020)  
 
 ---
 
-### 🌟 Skills Highlight
+### 🌟 Skills at a Glance
 
-- **Frontend**: Vue.js, React, Angular, TypeScript, Next.js  
-- **Backend**: Node.js, Python (Django/Flask), Java Spring Boot, Express.js  
-- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD  
+- **Frontend Engineering**: Vue.js, React, Angular, TypeScript, Next.js  
+- **Backend Development**: Node.js, Python (Django/Flask), Java Spring Boot, Express.js  
+- **Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD pipelines  
 - **Databases**: PostgreSQL, MySQL, MongoDB, Cassandra  
-- **AI/ML**: TensorFlow, PyTorch, NLP, model deployment  
-- **Practices**: Agile/Scrum, TDD, Microservices, System Design  
+- **AI/ML & Analytics**: TensorFlow, PyTorch, NLP, Power BI, Tableau  
+- **Practices**: Agile/Scrum, TDD, System Design, Microservices  
 
 ---
 
@@ -121,39 +125,8 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/moneshvenkul/Ecommerce-MERN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=Ecommerce-MERN&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/moneshvenkul/Realtime-Collab-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=Realtime-Collab-App&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/moneshvenkul/HealthInsights-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=HealthInsights-UI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/moneshvenkul/DataScience-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=DataScience-Projects&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/moneshvenkul/DevOps-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=DevOps-Automation&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/moneshvenkul/PowerBI-Analytics-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moneshvenkul&repo=PowerBI-Analytics-Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
-### ⭐ If you find my work useful, don’t forget to star ⭐ some of my repositories!
+### ⭐ If you find my work useful, don’t forget to star ⭐ my repositories and connect with me on LinkedIn!
 
 </div>
