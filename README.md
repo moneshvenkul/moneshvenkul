@@ -98,10 +98,6 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Grade-A++-brightgreen?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moneshvenkul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=moneshvenkul&theme=tokyonight&hide_border=true" height="165" />
 </p>
