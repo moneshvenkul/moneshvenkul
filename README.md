@@ -70,25 +70,32 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moneshvenkul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moneshvenkul&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=moneshvenkul&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=moneshvenkul&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moneshvenkul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moneshvenkul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moneshvenkul&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=moneshvenkul&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moneshvenkul&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+---
+
+<div align="center">
+  
+### ⭐ If you find my work useful, don't forget to star ⭐ my repositories and connect with me on LinkedIn!
+
+</div>
 ---
 
 <div align="center">
