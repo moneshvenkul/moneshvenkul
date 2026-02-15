@@ -96,10 +96,6 @@
 ### ⭐ If you find my work useful, don't forget to star ⭐ my repositories and connect with me on LinkedIn!
 
 </div>
----
 
-<div align="center">
-  
-### ⭐ If you find my work useful, don't forget to star ⭐ my repositories and connect with me on LinkedIn!
 
 </div>
